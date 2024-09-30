@@ -22,7 +22,8 @@ Read the assignment document, which is the README.md file in the directory for e
 
 Here is a tentative schedule for the release and due dates of the assignments in this course:
 
-* Assignment 1: Released on TODO
-* Assignment 2: Released on TODO
-* Assignment 3: Released on TODO
-* Assignment 4: Released on TODO
+* Assignment 1: Released on Monday, Sept 30; Due on Sunday, Oct 20
+* Assignment 2: Released on Monday, Oct 14; Due on Sunday, Nov 3 
+* Assignment 3: Released on Monday, Nov 4; Due on Sunday, Nov 23
+* Assignment 4: Released on Monday, Nov 18; Due on Sunday, Dec 8
+
