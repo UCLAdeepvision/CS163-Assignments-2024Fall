@@ -18,7 +18,7 @@ Please do not directly copy code from other sources.
 
 Please **do not use any Code AI** to derive the answers to the questions.
 
-This assignment is due on **TODO**.
+This assignment is due on **Sunday, Oct 20**.
 
 ❗**Once you have finished all the questions, it will still take approximately *60 minutes* to re-run the entire notebook in order to prepare the submission version. Make sure to allocate enough time for this task and start early.**
 
